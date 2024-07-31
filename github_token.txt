@@ -1,0 +1,2 @@
+# Contains GitHub Personal Access Token
+GitHub Personal Access Token: ghp_16DigitsOfText
