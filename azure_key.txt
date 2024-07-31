@@ -1,0 +1,2 @@
+# Contains Azure Storage Account Key
+Azure Storage Account Key: Eby8vdM02xNoSa/ChchZbLk+h1cHB2d7EXAMPLEKEYh1cHB2d7EXAMPLEKEY
