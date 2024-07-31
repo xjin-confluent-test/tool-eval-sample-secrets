@@ -1,0 +1,6 @@
+# Contains database credentials and Google API key
+{
+  "db_user": "db_user",
+  "db_password": "db_password123",
+  "google_api_key": "AIzaSyA-5dZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+}
